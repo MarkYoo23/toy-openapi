@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toy.OpenApi", "Toy.OpenApi\Toy.OpenApi.csproj", "{61680F6B-1C4A-473B-BF4A-6AE19EA4632D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61680F6B-1C4A-473B-BF4A-6AE19EA4632D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61680F6B-1C4A-473B-BF4A-6AE19EA4632D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61680F6B-1C4A-473B-BF4A-6AE19EA4632D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61680F6B-1C4A-473B-BF4A-6AE19EA4632D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
